@@ -1,0 +1,14 @@
+C:\Users\Victus\source\repos\Telstrore\Telstrore\bin\Debug\net8.0\Telstrore.exe
+C:\Users\Victus\source\repos\Telstrore\Telstrore\bin\Debug\net8.0\Telstrore.deps.json
+C:\Users\Victus\source\repos\Telstrore\Telstrore\bin\Debug\net8.0\Telstrore.runtimeconfig.json
+C:\Users\Victus\source\repos\Telstrore\Telstrore\bin\Debug\net8.0\Telstrore.dll
+C:\Users\Victus\source\repos\Telstrore\Telstrore\bin\Debug\net8.0\Telstrore.pdb
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.dll
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\refint\Telstrore.dll
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.pdb
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\Telstrore.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Telstrore\Telstrore\obj\Debug\net8.0\ref\Telstrore.dll
